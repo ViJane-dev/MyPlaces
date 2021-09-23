@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Тюбетейка.jpg",
+      "filename" : "Tjubetejka.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Тюбетейка@2x.jpg",
+      "filename" : "Tjubetejka@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Тюбетейка@3x.jpg",
+      "filename" : "Tjubetejka@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }

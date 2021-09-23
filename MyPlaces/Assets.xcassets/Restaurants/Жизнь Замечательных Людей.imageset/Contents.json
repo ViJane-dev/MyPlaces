@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Жизнь Замечательных Людей.jpg",
+      "filename" : "LifeOfBeautifulPeople.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Жизнь Замечательных Людей@2x.jpg",
+      "filename" : "LifeOfBeautifulPeople@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Жизнь Замечательных Людей@3x.jpg",
+      "filename" : "LifeOfBeautifulPeople@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
